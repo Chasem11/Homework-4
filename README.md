@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://github.com/COP4808-Spring2024-Full-Stack-Webdev/hw2-Chasem11/blob/main/src/assets/Project2.gif?raw=true](https://github.com/COP4808-Spring2024-Full-Stack-Webdev/hw4-Chasem11/blob/main/src/assets/project4.gif)
+![Video Walkthrough](https://github.com/COP4808-Spring2024-Full-Stack-Webdev/hw4-Chasem11/blob/main/src/assets/project4.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
