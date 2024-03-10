@@ -1,0 +1,59 @@
+.cat-explorer {
+    font-family: 'Arial', sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.cat-explorer h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.cat-explorer img.cat-image {
+    width: 100%;
+    max-width: 300px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+
+.cat-explorer button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.cat-explorer button:hover {
+    background-color: #0056b3;
+}
+
+.cat-explorer .ban-list {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.cat-explorer .ban-list h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+.cat-explorer .ban-list p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
